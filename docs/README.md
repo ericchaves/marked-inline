@@ -2,7 +2,7 @@
 
 Sample project to ilustrate "base-reference" path problem between Marked-github/Github.
 
-Those links will work on Marked, but produce a 404 in Github.
+Those links will work on Marked, but won't Github.
 
 Linking to [pageone](pageone.md) 
 Linking to [pagetwo](pagetwo.md)
