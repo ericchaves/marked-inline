@@ -7,7 +7,7 @@
 
 | Link | Marked | Github |
 |:----:|:------:|:------:|
-|  1   |   OK   |        |
-|  2   |   NO   |        |
-|  3   |   OK   |        |
-|  4   |   NO   |        |
+|  1   |   OK   |   OK   |
+|  2   |   NO   |   NO   |
+|  3   |   OK   |   OK   |
+|  4   |   NO   |   NO   |
